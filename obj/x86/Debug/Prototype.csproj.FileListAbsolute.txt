@@ -1,0 +1,127 @@
+Z:\Afonkin\Prototype\bin\Debug\Prototype.exe
+Z:\Afonkin\Prototype\bin\Debug\Prototype.pdb
+Z:\Afonkin\Prototype\obj\x86\Debug\Prototype.Form1.resources
+Z:\Afonkin\Prototype\obj\x86\Debug\Prototype.Properties.Resources.resources
+Z:\Afonkin\Prototype\obj\x86\Debug\Prototype.csproj.GenerateResource.Cache
+Z:\Afonkin\Prototype\obj\x86\Debug\Prototype.exe
+Z:\Afonkin\Prototype\obj\x86\Debug\Prototype.pdb
+Z:\Afonkin\Prototype\obj\x86\Debug\Prototype.Form2.resources
+Z:\Afonkin\Prototype\obj\x86\Debug\Prototype.Form3.resources
+Z:\Afonkin\Prototype\obj\x86\Debug\Prototype.Form4.resources
+C:\Users\Andrey\Desktop\Prototype\bin\Debug\Prototype.exe
+C:\Users\Andrey\Desktop\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Andrey\Desktop\Prototype\obj\x86\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\Andrey\Desktop\Prototype\obj\x86\Debug\Prototype.Form1.resources
+C:\Users\Andrey\Desktop\Prototype\obj\x86\Debug\Prototype.Form2.resources
+C:\Users\Andrey\Desktop\Prototype\obj\x86\Debug\Prototype.Form3.resources
+C:\Users\Andrey\Desktop\Prototype\obj\x86\Debug\Prototype.Form4.resources
+C:\Users\Andrey\Desktop\Prototype\obj\x86\Debug\Prototype.Properties.Resources.resources
+C:\Users\Andrey\Desktop\Prototype\obj\x86\Debug\Prototype.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\Prototype\obj\x86\Debug\Prototype.exe
+C:\Users\Andrey\Desktop\Prototype\obj\x86\Debug\Prototype.pdb
+C:\Users\student\Desktop\Prototype(v2)\obj\x86\Debug\Prototype.exe
+C:\Users\student\Desktop\Prototype(v2)\obj\x86\Debug\Prototype.pdb
+C:\Users\student\Desktop\Prototype(v2)\bin\Debug\Prototype.exe
+C:\Users\student\Desktop\Prototype(v2)\obj\x86\Debug\Prototype.Form1.resources
+C:\Users\student\Desktop\Prototype(v2)\obj\x86\Debug\Prototype.Form2.resources
+C:\Users\student\Desktop\Prototype(v2)\obj\x86\Debug\Prototype.Form3.resources
+C:\Users\student\Desktop\Prototype(v2)\obj\x86\Debug\Prototype.Form4.resources
+C:\Users\student\Desktop\Prototype(v2)\obj\x86\Debug\Prototype.Properties.Resources.resources
+C:\Users\student\Desktop\Prototype(v2)\obj\x86\Debug\Prototype.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Prototype(v2)\obj\x86\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Prototype(v2)\bin\Debug\Prototype.pdb
+C:\Users\Andrey\source\repos\Prototype(v2)\obj\x86\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Prototype(v2)\obj\x86\Debug\Prototype.exe
+C:\Users\Andrey\source\repos\Prototype(v2)\obj\x86\Debug\Prototype.pdb
+C:\Users\Andrey\source\repos\Prototype(v2)\bin\Debug\Prototype.exe
+C:\Users\Andrey\source\repos\Prototype(v2)\bin\Debug\Prototype.pdb
+C:\Users\Andrey\source\repos\Prototype(v2)\obj\x86\Debug\Prototype.Form1.resources
+C:\Users\Andrey\source\repos\Prototype(v2)\obj\x86\Debug\Prototype.Form2.resources
+C:\Users\Andrey\source\repos\Prototype(v2)\obj\x86\Debug\Prototype.Form3.resources
+C:\Users\Andrey\source\repos\Prototype(v2)\obj\x86\Debug\Prototype.Form4.resources
+C:\Users\Andrey\source\repos\Prototype(v2)\obj\x86\Debug\Prototype.Properties.Resources.resources
+C:\Users\Andrey\source\repos\Prototype(v2)\obj\x86\Debug\Prototype.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\Prototype(v4)\obj\x86\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Prototype(v4)\obj\x86\Debug\Prototype.Form1.resources
+C:\Users\Andrey\source\repos\Prototype(v4)\obj\x86\Debug\Prototype.Stundent.resources
+C:\Users\Andrey\source\repos\Prototype(v4)\obj\x86\Debug\Prototype.Form3.resources
+C:\Users\Andrey\source\repos\Prototype(v4)\obj\x86\Debug\Prototype.Form4.resources
+C:\Users\Andrey\source\repos\Prototype(v4)\obj\x86\Debug\Prototype.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\Prototype(v4)\obj\x86\Debug\Prototype.exe
+C:\Users\Andrey\source\repos\Prototype(v4)\obj\x86\Debug\Prototype.pdb
+C:\Users\Andrey\source\repos\Prototype(v4)\obj\x86\Debug\Prototype.Properties.Resources.resources
+C:\Users\Andrey\source\repos\Prototype(v4)\bin\Debug\Prototype.exe
+C:\Users\Andrey\source\repos\Prototype(v4)\bin\Debug\Prototype.pdb
+C:\Users\Andrey\Desktop\Prototype(v5)\bin\Debug\Prototype.exe
+C:\Users\Andrey\Desktop\Prototype(v5)\bin\Debug\Prototype.pdb
+C:\Users\Andrey\Desktop\Prototype(v5)\obj\x86\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\Andrey\Desktop\Prototype(v5)\obj\x86\Debug\Prototype.Form1.resources
+C:\Users\Andrey\Desktop\Prototype(v5)\obj\x86\Debug\Prototype.Stundent.resources
+C:\Users\Andrey\Desktop\Prototype(v5)\obj\x86\Debug\Prototype.Form3.resources
+C:\Users\Andrey\Desktop\Prototype(v5)\obj\x86\Debug\Prototype.Form4.resources
+C:\Users\Andrey\Desktop\Prototype(v5)\obj\x86\Debug\Prototype.Properties.Resources.resources
+C:\Users\Andrey\Desktop\Prototype(v5)\obj\x86\Debug\Prototype.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\Prototype(v5)\obj\x86\Debug\Prototype.exe
+C:\Users\Andrey\Desktop\Prototype(v5)\obj\x86\Debug\Prototype.pdb
+C:\Users\Andrey\source\repos\Prototype(v5)\bin\Debug\Prototype.exe
+C:\Users\Andrey\source\repos\Prototype(v5)\bin\Debug\Prototype.pdb
+C:\Users\Andrey\source\repos\Prototype(v5)\obj\x86\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Prototype(v5)\obj\x86\Debug\Prototype.Form1.resources
+C:\Users\Andrey\source\repos\Prototype(v5)\obj\x86\Debug\Prototype.Stundent.resources
+C:\Users\Andrey\source\repos\Prototype(v5)\obj\x86\Debug\Prototype.Form3.resources
+C:\Users\Andrey\source\repos\Prototype(v5)\obj\x86\Debug\Prototype.Form4.resources
+C:\Users\Andrey\source\repos\Prototype(v5)\obj\x86\Debug\Prototype.Properties.Resources.resources
+C:\Users\Andrey\source\repos\Prototype(v5)\obj\x86\Debug\Prototype.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\Prototype(v5)\obj\x86\Debug\Prototype.exe
+C:\Users\Andrey\source\repos\Prototype(v5)\obj\x86\Debug\Prototype.pdb
+C:\Users\Andrey\Desktop\Prototype(v7)final\bin\Debug\Prototype.exe
+C:\Users\Andrey\Desktop\Prototype(v7)final\bin\Debug\Prototype.pdb
+C:\Users\Andrey\Desktop\Prototype(v7)final\obj\x86\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\Andrey\Desktop\Prototype(v7)final\obj\x86\Debug\Prototype.Form1.resources
+C:\Users\Andrey\Desktop\Prototype(v7)final\obj\x86\Debug\Prototype.Stundent.resources
+C:\Users\Andrey\Desktop\Prototype(v7)final\obj\x86\Debug\Prototype.Form3.resources
+C:\Users\Andrey\Desktop\Prototype(v7)final\obj\x86\Debug\Prototype.Form4.resources
+C:\Users\Andrey\Desktop\Prototype(v7)final\obj\x86\Debug\Prototype.Properties.Resources.resources
+C:\Users\Andrey\Desktop\Prototype(v7)final\obj\x86\Debug\Prototype.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\Prototype(v7)final\obj\x86\Debug\Prototype.exe
+C:\Users\Andrey\Desktop\Prototype(v7)final\obj\x86\Debug\Prototype.pdb
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v8)\obj\x86\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v8)\obj\x86\Debug\Prototype.exe
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v8)\obj\x86\Debug\Prototype.pdb
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v8)\bin\Debug\Prototype.exe
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v8)\bin\Debug\Prototype.pdb
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v8)\obj\x86\Debug\Prototype.Form1.resources
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v8)\obj\x86\Debug\Prototype.Stundent.resources
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v8)\obj\x86\Debug\Prototype.Properties.Resources.resources
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v8)\obj\x86\Debug\Prototype.csproj.GenerateResource.cache
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v8)\obj\x86\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\Prototype(v9)\bin\Debug\Prototype.exe
+C:\Users\Andrey\Desktop\Prototype(v9)\bin\Debug\Prototype.pdb
+C:\Users\Andrey\Desktop\Prototype(v9)\obj\x86\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\Andrey\Desktop\Prototype(v9)\obj\x86\Debug\Prototype.Form1.resources
+C:\Users\Andrey\Desktop\Prototype(v9)\obj\x86\Debug\Prototype.Stundent.resources
+C:\Users\Andrey\Desktop\Prototype(v9)\obj\x86\Debug\Prototype.Properties.Resources.resources
+C:\Users\Andrey\Desktop\Prototype(v9)\obj\x86\Debug\Prototype.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\Prototype(v9)\obj\x86\Debug\Prototype.exe
+C:\Users\Andrey\Desktop\Prototype(v9)\obj\x86\Debug\Prototype.pdb
+D:\Users\student\Desktop\Prototype(v10)\bin\Debug\Prototype.exe
+D:\Users\student\Desktop\Prototype(v10)\bin\Debug\Prototype.pdb
+D:\Users\student\Desktop\Prototype(v10)\obj\x86\Debug\Prototype.csprojAssemblyReference.cache
+D:\Users\student\Desktop\Prototype(v10)\obj\x86\Debug\Prototype.Form1.resources
+D:\Users\student\Desktop\Prototype(v10)\obj\x86\Debug\Prototype.Stundent.resources
+D:\Users\student\Desktop\Prototype(v10)\obj\x86\Debug\Prototype.Properties.Resources.resources
+D:\Users\student\Desktop\Prototype(v10)\obj\x86\Debug\Prototype.csproj.GenerateResource.cache
+D:\Users\student\Desktop\Prototype(v10)\obj\x86\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\Users\student\Desktop\Prototype(v10)\obj\x86\Debug\Prototype.exe
+D:\Users\student\Desktop\Prototype(v10)\obj\x86\Debug\Prototype.pdb
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v10)\bin\Debug\Prototype.exe
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v10)\bin\Debug\Prototype.pdb
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v10)\obj\x86\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v10)\obj\x86\Debug\Prototype.Form1.resources
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v10)\obj\x86\Debug\Prototype.Stundent.resources
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v10)\obj\x86\Debug\Prototype.Form3.resources
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v10)\obj\x86\Debug\Prototype.Properties.Resources.resources
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v10)\obj\x86\Debug\Prototype.csproj.GenerateResource.cache
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v10)\obj\x86\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v10)\obj\x86\Debug\Prototype.exe
+C:\Users\mafon\OneDrive\Рабочий стол\Prototype(v10)\obj\x86\Debug\Prototype.pdb
