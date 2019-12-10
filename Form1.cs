@@ -11,10 +11,10 @@ namespace Prototype
 {
     public partial class Form1 : Form
     {
-        string login = "ZakirovaR";
+        string login = "1";
         string pass = "1";
-        string ulogin = "FatuyshkinA";
-        string upass = "1";
+        string ulogin = "2";
+        string upass = "2";
         public static int acc = 0;
         public Form1()
         {

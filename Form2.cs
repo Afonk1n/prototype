@@ -24,7 +24,7 @@ namespace Prototype
         {
             InitializeComponent();
         }
-        int account = Form1.acc;
+        public static int account = Form1.acc;
         
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
@@ -199,7 +199,9 @@ namespace Prototype
 
         private void Зачётка_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://newlms.magtu.ru/report/magtu_record_book/");
+            Form3 journal = new Form3(this, account);
+            journal.Show();
+            this.Hide();
         }
 
         private void Зачётка_MouseHover(object sender, EventArgs e)
@@ -402,7 +404,7 @@ namespace Prototype
 
         private void label1_Click(object sender, EventArgs e)
         {
-            Form3 journal = new Form3();
+            Form3 journal = new Form3(this, account);
             journal.Show();
             this.Hide();
         }
